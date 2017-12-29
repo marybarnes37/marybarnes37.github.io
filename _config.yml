@@ -24,7 +24,7 @@ github_username:  marybarnes37
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
